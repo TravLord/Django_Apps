@@ -1,2 +1,4 @@
 # Django_Apps
-This Repo contains Django framework web applications 
+
+## Checkbook webapp
+- This web application stores transactional customer information.  Mock up banking app, with ability to keep track of deposited and withdrawled funds utilizing CRUD.
